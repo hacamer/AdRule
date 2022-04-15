@@ -5,6 +5,11 @@
 ! Expires: 12 Hours
 ! Description: 移除一些烦人的元素
 !
+! 网易云音乐log搜集
+||*.music.163.com/api/clientlog^
+||httpdns.*.netease.com^
+||*.music.163.com/*/ad^
+
 ! Don't Copy
 ! 百度Don't Copy
 baijiahao.baidu.com,m*.baidu.com,tieba.baidu.com#%#document.execCommand = {}

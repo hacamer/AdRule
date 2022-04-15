@@ -18,7 +18,7 @@ jobs:
       - name: Clean Versions & Update file
         run: |
           bash clean-versions.sh
-          bash ./adrules/main.sh
+          #bash ./adrules/main.sh
           echo 'OK!'
       - name: Git push assets to github
         run: |

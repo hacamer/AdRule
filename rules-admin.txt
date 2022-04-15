@@ -10,6 +10,11 @@
 ||httpdns.*.netease.com^
 ||*.music.163.com/*/ad^
 
+! 作业帮
+||httpdns.zybang.com^
+||apm.zuoyebang.com/monitor_browser/collect$app=com.baidu.homework
+||*logtj.zuoyebang.cc^
+
 ! Don't Copy
 ! 百度Don't Copy
 baijiahao.baidu.com,m*.baidu.com,tieba.baidu.com#%#document.execCommand = {}
@@ -246,7 +251,7 @@ hdzone.org#$#abort-current-inline-script Math zfgloaded
 
 ！爱奇艺
 @@||cards.iqiyi.com^$app=com.qiyi.video
-
+||doh.iqiyi.com^
 
 ！快对作业
 ||c.kuaiduizuoye.com^$app=com.kuaiduizuoye.scan

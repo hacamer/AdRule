@@ -181,6 +181,14 @@ tieba.baidu.com##.navbar-left
 tieba.baidu.com##.nav-bar.w-row-justify-between.w-row-align-center.w-row
 tieba.baidu.com##.guide-btn
 ||downapp.baidu.com/baidutieba/*$document,domain=downapp.baidu.com
+||*/c/s/newlog
+||tb*.bdstatic.com/tb/client/log*.js
+||cloud-log.yy.com^
+||pimlog.baidu.com^
+||c.tieba.baidu.com/c/s/newlog
+||c.tieba.baidu.com/c/f/forum/getAdInfo
+||pn.baidu.com/*ad^
+||httpdns.baidubce.com^
 
 ! 杂七杂八
 adcmove.com##div.fed-foot-info.fed-part-layout.fed-back-whits:nth-child(9) > div.fed-part-case > ins:last-child > div:nth-child(2)

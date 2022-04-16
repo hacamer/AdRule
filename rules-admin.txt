@@ -6,6 +6,7 @@
 ! Description: 移除一些烦人的元素
 !
 ! 网易云音乐log搜集
+||clientlog*.music.163.com^
 ||*.music.163.com/api/clientlog^
 ||httpdns.*.netease.com^
 ||*.music.163.com/*/ad^

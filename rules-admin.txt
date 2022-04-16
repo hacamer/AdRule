@@ -431,6 +431,26 @@ xda-developers.com###purch-parent-ad-container-id
 ||sdk.voiceads.cn
 ||img.voiceads.cn
 ||sdk.e.qq.com
+||118.89.204.198^
+||119.29.29.29^
+||api.zhihu.com/*vip_tab^
+||api.zhihu.com/api/user/prod/user/info/collections/upload
+||api.zhihu.com/fringe/ad
+||api.zhihu.com/log_collect^
+||api.zhihu.com/usertask-core/action/read_content_duration_when_left
+||api.zhihu.com/usertask-core/action^
+||datahub.zhihu.com/collector^
+||lens.zhihu.com^
+||m-cloud.zhihu.com/api/personal^
+||open.kwaizt.com^
+||pic1.zhimg.com/check_health
+||vdn.vzuu.com^
+||vzuu.com^
+||www.zhihu.com/*/advisor_cards
+||www.zhihu.com/api/v4/members^
+||www.zhihu.com/api/v4/zvideo-collections/contents/included/collections?
+||www.zhihu.com/sc-profiler
+||zhihu.com/check_health
 
 !修改内容
 ||api.zhihu.com/topstory/recommend$replace=/{"id":"AD.*?"type":"feed_advert".*?adjson.*?"ncontent".*?"ecpm".*?}}\,/ /

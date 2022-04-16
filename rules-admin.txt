@@ -24,6 +24,11 @@
 ||syh.zybang.com^
 ||apiugc.zybang.com^
 ||apivip.zybang.com^
+||msg.zybang.com^
+||napi.zybang.com^
+||nps.zuoyebang.com^
+||sanxia.zybang.com^
+
 
 ! Don't Copy
 ! 百度Don't Copy

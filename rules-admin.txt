@@ -12,8 +12,18 @@
 
 ! 作业帮
 ||httpdns.zybang.com^
-||apm.zuoyebang.com/monitor_browser/collect$app=com.baidu.homework
+||apm.zuoyebang.com/monitor_browser/collect
 ||*logtj.zuoyebang.cc^
+||wenda.zuoyebang.com^
+@@||img.zuoyebang.cc
+||fmp-notice.zybang.com^
+||n*.zuoyebang.cc/*vip*^
+||apm.zuoyebang.com^
+||apivip.zybang.com^
+||zyb-vip.cdnjtzy.com^
+||syh.zybang.com^
+||apiugc.zybang.com^
+||apivip.zybang.com^
 
 ! Don't Copy
 ! 百度Don't Copy

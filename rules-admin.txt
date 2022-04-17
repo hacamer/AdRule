@@ -12,6 +12,11 @@
 ||httpdns.*.netease.com^
 ||*.music.163.com/*/ad^
 
+
+! Log
+||log-sdk.ksapisrv.com^
+||wlog.kuaishou.com^
+
 ! 作业帮
 ||httpdns.zybang.com^
 ||apm.zuoyebang.com/monitor_browser/collect

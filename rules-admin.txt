@@ -497,14 +497,12 @@ xda-developers.com###purch-parent-ad-container-id
 
 ! Miui 应用商店
 ||app.market.xiaomi.com/apm/toplist^
-@@*webp*$app=com.xiaomi.market
 ||app.market.xiaomi.com/apm/app^
 ||app.market.xiaomi.com/apm/necessary^
-||app.market.xiaomi.com/apm/search/guidepageV*?^
-||app.market.xiaomi.com/apm/floaticonV*?
+||app.market.xiaomi.com/apm/search/guidepageV*
+||app.market.xiaomi.com/apm/floaticonV*
 ||app.market.xiaomi.com/apm/usercomment^
 ||app.market.xiaomi.com/apm/updateinfo^
 ||app.market.xiaomi.com/apm/recommend^
 ||sf0.market.xiaomi.com/thumbnail^
 ||app.market.xiaomi.com/apm/zone^
-

@@ -12,6 +12,8 @@
 ||httpdns.*.netease.com^
 ||*.music.163.com/*/ad^
 
+! 酷狗
+||collect.kugou.com^
 
 ! Log
 ||log-sdk.ksapisrv.com^
@@ -277,6 +279,7 @@ hdzone.org#$#abort-current-inline-script Math zfgloaded
 ！爱奇艺
 @@||cards.iqiyi.com^
 ||doh.iqiyi.com^
+||local.service.doh.domain^
 
 ！快对作业
 ||c.kuaiduizuoye.com^

@@ -3,14 +3,10 @@
 @@||dav.jianguoyun.com
 @@||img.zuoyebang.cc
 @@||jianghu.live2008.com
-||*.98765432100.site
 ||*.fghpro.xyz
-||*.online
-||*.site
 ||*logtj.zuoyebang.cc
 ||118.89.204.198
 ||119.29.29.29
-||adashbc.ut.taobao.com
 ||adashbc.ut.taobao.com
 ||android.bugly.qq.com
 ||api.ad.xiaomi.com

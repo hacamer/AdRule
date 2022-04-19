@@ -249,3 +249,9 @@ $removeparam=is_video_answer_page
 ||zhihu.com^$removeparam=q_idx
 ||zhihu.com^$removeparam=slide_direction
 ||zhihu.com^$removeparam=x-api-version
+
+! 网易云音乐
+||music.163.com^$removeparam=uct
+||music.163.com^$removeparam=app_version
+||music.163.com^$removeparam=sc
+||music.163.com^$removeparam=tn

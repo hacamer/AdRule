@@ -12,6 +12,14 @@
 ||httpdns.*.netease.com^
 ||*.music.163.com/*/ad^
 
+! QQ
+||qzonestyle.gtimg.cn^$app=com.tencent.mobileqq
+
+! 愛奇藝
+||*.iqiyi.com^$replace=/\{"id.*猜你.+\}\,//
+||*.iqiyi.com^$replace=/top_banner//
+||*.iqiyi.com^$replace=/"ad_area":"graphic"/"ad_area":"none"/
+
 ! 酷狗
 ||collect.kugou.com^
 
@@ -469,6 +477,7 @@ xda-developers.com###purch-parent-ad-container-id
 ||www.zhihu.com/api/v4/zvideo-collections/contents/included/collections?
 ||www.zhihu.com/sc-profiler
 ||zhihu.com/check_health
+||*/check_health$app=com.zhihu.android
 
 !修改内容
 ||api.zhihu.com/topstory/recommend$replace=/{"id":"AD.*?"type":"feed_advert".*?adjson.*?"ncontent".*?"ecpm".*?}}\,/ /
@@ -505,7 +514,13 @@ xda-developers.com###purch-parent-ad-container-id
 ||app.market.xiaomi.com/apm/search/guidepageV*
 ||app.market.xiaomi.com/apm/floaticonV*
 ||app.market.xiaomi.com/apm/usercomment^
-||app.market.xiaomi.com/apm/updateinfo^
 ||app.market.xiaomi.com/apm/recommend^
-||sf0.market.xiaomi.com/thumbnail^
 ||app.market.xiaomi.com/apm/zone^
+||app.market.xiaomi.com/*/search^$replace=/"type":"nativeSearchTopAdDetailApp"/"type":listApp"/
+||app.market.xiaomi.com/apm/search?$replace=/\{"fitness":0.*?showAdMark":true.*?fitness":0/{"fitness":0/
+||app.market.xiaomi.com/apm/search?$replace=/nativeSearchTopAdDetailApp/listApp/
+||app.market.xiaomi.com/*/search^$replace=/"recallType":"AD"/"recallType":"NATURE"/
+||app.market.xiaomi.com/*/search^$replace=/"isSearchTopAd":true/"isSearchTopAd":false/
+||app.market.xiaomi.com/*/search^$replace=/"ads":1/"ads":0/
+! CookAPK
+||mapi.m.jd.com^$app=com.coolapk.market

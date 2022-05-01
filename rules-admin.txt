@@ -508,7 +508,6 @@ xda-developers.com###purch-parent-ad-container-id
 
 ! Miui 应用商店
 ||app.market.xiaomi.com/apm/toplist^
-||app.market.xiaomi.com/apm/app^
 ||app.market.xiaomi.com/apm/necessary^
 ||app.market.xiaomi.com/apm/search/guidepageV*
 ||app.market.xiaomi.com/apm/floaticonV*

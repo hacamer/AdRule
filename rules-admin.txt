@@ -287,7 +287,7 @@ hdzone.org#$#abort-current-inline-script Math zfgloaded
 @@||cards.iqiyi.com^
 ||doh.iqiyi.com^
 ||local.service.doh.domain^
-
+||doh.ptqy.gitv.tv^
 ！快对作业
 ||c.kuaiduizuoye.com^
 ||adashbc.ut.taobao.com^

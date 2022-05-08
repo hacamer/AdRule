@@ -4,7 +4,7 @@
 ! Last Update: 2022-05-08 00:51:07（北京时间） 
 ! Expires: 1 Day
 ! Last Modified: 1 Day
-! Homepage: https://github.com/Cats-Team/AdRule
+! Homepage: https://github.com/hacamer/AdRule
 ! Description: 杏梢的URL过滤器，清除常见的跟踪参数 
 !
 ! 通用
@@ -111,7 +111,7 @@ $removeparam=is_video_answer_page
 ||www.google.com^$removeparam=pccc
 ||www.google.com^$removeparam=newwindow
 ||www.google.com^$removeparam=iflsig
-
+||www.google.com^$removeparam=start
 ! 谷歌搜索(Other language)
 ||www.google.com.*^$removeparam=aqs
 ||www.google.com.*^$removeparam=sourceid
@@ -126,16 +126,7 @@ $removeparam=is_video_answer_page
 ||www.google.com.*^$removeparam=pccc
 ||www.google.com.*^$removeparam=newwindow
 ||www.google.com.*^$removeparam=iflsig
-
-! 谷歌镜像（go-xyz.xyz）
-||go-xyz.xyz^$removeparam=aqs
-||go-xyz.xyz^$removeparam=sourceid
-||go-xyz.xyz^$removeparam=sclient
-||go-xyz.xyz^$removeparam=gs_lcp
-||go-xyz.xyz^$removeparam=oq
-||go-xyz.xyz^$removeparam=ei
-||go-xyz.xyz^$removeparam=sxsrf
-||go-xyz.xyz^$removeparam=ved
+||www.google.com.*^$removeparam=start
 
 ! Bing搜索
 ||bing.com^$removeparam=PTAG

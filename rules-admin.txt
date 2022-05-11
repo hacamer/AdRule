@@ -26,6 +26,11 @@
 ! Log
 ||log-sdk.ksapisrv.com^
 ||wlog.kuaishou.com^
+||dns.jd.com^
+||dns.jd.com.gslb.qianxun.com^
+||collector.dcdn.baidu.com^
+||collect.ws.126.net^
+||norma-external-collect.meizu.com^
 
 ! 作业帮
 ||httpdns.zybang.com^

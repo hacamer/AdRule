@@ -8,6 +8,7 @@
 !
 ! 网易云音乐log搜集
 ||clientlog*.music.163.com^
+||clientlog3.music.163.com^
 ||*.music.163.com/api/clientlog^
 ||httpdns.*.netease.com^
 ||*.music.163.com/*/ad^
@@ -21,7 +22,7 @@
 
 ! 酷狗
 ||collect.kugou.com^
-
+||epcollect.kugou.com^
 ! Log
 ||log-sdk.ksapisrv.com^
 ||wlog.kuaishou.com^

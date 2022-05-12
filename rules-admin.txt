@@ -471,7 +471,7 @@ xda-developers.com###purch-parent-ad-container-id
 ||api.zhihu.com/usertask-core/action/read_content_duration_when_left
 ||api.zhihu.com/usertask-core/action^
 ||datahub.zhihu.com/collector^
-||lens.zhihu.com^
+!||lens.zhihu.com^
 ||m-cloud.zhihu.com/api/personal^
 ||open.kwaizt.com^
 ||pic1.zhimg.com/check_health

@@ -532,6 +532,10 @@ xda-developers.com###purch-parent-ad-container-id
 
 ! CookAPK直接禁止访问京东域名
 ||*jd.com^$app=com.coolapk.market
+! 酷安的banner
+||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"iconMiniScrollCard".*?\}\,\{"entityType":"card"/{"entityType":"card"/
+||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"iconLinkGridCard".*?\}\,\{"entityType":"card"/{"entityType":"card"/
+||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"imageCarouselCard_1".*?\}\,\{"entityType":"card"/{"entityType": "card"/
 
 !尝试去除拼多多与日用无关广告(实测在刷新后会加载回来，暂时不知道他是怎么做到的)
 ||api.pinduoduo.com/api/alexa/homepage/hub?page_id=index.html?dy_sub_page=home^$replace=/search_bar_hot_query.*search_bar_visible/search_bar_hot_query":{},"search_bar_visible/

@@ -309,7 +309,7 @@ m.pixivic.com#$#div&gt;img[style*="filter: blur(25px);"] {filter:initial  !impor
 ||mp.weixin.qq.com/mp/getappmsgad
 ||mp.weixin.qq.com/mp/ad_monitor
 ||mp.weixin.qq.com/mp/ad_biz_info
-
+||dns.weixin.qq.com.cn^app=com.tencent.mm
 
 ! 3dmgame.com
 3dmgame.com$$div[class="downl_btn azh"]
@@ -526,5 +526,14 @@ xda-developers.com###purch-parent-ad-container-id
 ||app.market.xiaomi.com/*/search^$replace=/"recallType":"AD"/"recallType":"NATURE"/
 ||app.market.xiaomi.com/*/search^$replace=/"isSearchTopAd":true/"isSearchTopAd":false/
 ||app.market.xiaomi.com/*/search^$replace=/"ads":1/"ads":0/
-! CookAPK
-||mapi.m.jd.com^$app=com.coolapk.market
+||app.market.xiaomi.com/apm/search/guidepage?
+||app.market.xiaomi.com/apm/featuredV2^
+||app.market.xiaomi.com/apm/search/hotword^
+
+! CookAPK直接禁止访问京东域名
+||*jd.com^$app=com.coolapk.market
+
+!尝试去除拼多多与日用无关广告(实测在刷新后会加载回来，暂时不知道他是怎么做到的)
+||api.pinduoduo.com/api/alexa/homepage/hub?page_id=index.html?dy_sub_page=home^$replace=/search_bar_hot_query.*search_bar_visible/search_bar_hot_query":{},"search_bar_visible/
+||api.pinduoduo.com/api/alexa/homepage/hub?page_id=index.html?dy_sub_page=home^$replace=/"title":"多多视频".*?\}\,\{//
+||api.pinduoduo.com/api/alexa/homepage/hub?page_id=index.html?dy_sub_page=home^$replace=/"icon_set":\[.*?\]/"icon_set":[{}]/

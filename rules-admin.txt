@@ -530,8 +530,9 @@ xda-developers.com###purch-parent-ad-container-id
 ||app.market.xiaomi.com/apm/featuredV2^
 ||app.market.xiaomi.com/apm/search/hotword^
 
-! CookAPK直接禁止访问京东域名
+! CookAPK直接禁止访问京东与头条域名
 ||*jd.com^$app=com.coolapk.market
+||*toutiao.com^$app=com.coolapk.market
 ! 酷安的banner
 ||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"iconMiniScrollCard".*?\}\,\{"entityType":"card"/{"entityType":"card"/
 ||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"iconLinkGridCard".*?\}\,\{"entityType":"card"/{"entityType":"card"/

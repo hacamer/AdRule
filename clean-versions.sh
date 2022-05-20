@@ -22,6 +22,7 @@ easylist=(
   "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
   "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt"
   "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
+  "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
 )
 for i in "${!easylist[@]}"
 do
@@ -35,10 +36,19 @@ do
 done
 wait
 
+cat easy*.txt | grep -Ev '#|\$|@|!|/|\\|\*'\
+ | grep -v -E "^((#.*)|(\s*))$" \
+ | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|loopback)$" \
+ | sed 's/127.0.0.1 //' | sed 's/0.0.0.0 //' \
+ | sed "s/^/||&/g" |sed "s/$/&^/g"| sed '/^$/d' \
+ | grep -v '^#' \
+ | sort -n | uniq | awk '!a[$0]++' \
+ | grep -E "^((\|\|)\S+\^)" > abp-hosts.txt
+
 cat rules-admin.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^" | grep -Fv "$" |sort | uniq > dns.txt
 counting=`cat easy* dns.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq |wc -l`
 tittle="! Title: Quickly List \n! Version: $time \n! Last Update: $date \n! Total count: $counting"
 echo -e "$tittle" > dns-list.txt
-cat easy* dns.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq >> dns-list.txt
+cat easy* dns.txt abp-hosts.txt| grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq >> dns-list.txt
 rm -f easy*
 exit

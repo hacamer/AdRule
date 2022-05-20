@@ -7,17 +7,16 @@ sed -i "s/! Last Update:.*/! Last Update: $date /g" rules-admin.txt url-filter.t
 easylist=(
   "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"
   "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
-  "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
+  #"https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
   #"https://easylist.to/easylist/easyprivacy.txt"
   "https://filters.adtidy.org/windows/filters/224.txt"
   "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"
   "https://github.com/Cats-Team/AdRules/raw/main/mod/rules/dns-rules.txt"
-"https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/dns-rules.txt"
-"https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/thrid-part-rules.txt"
+  "https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/dns-rules.txt"
+  "https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/thrid-part-rules.txt"
   "https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/adblock-rules.txt"
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt"
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
-  #"https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt"
 )
 for i in "${!easylist[@]}"
 do

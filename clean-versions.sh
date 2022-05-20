@@ -24,10 +24,24 @@ easylist=(
   "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
 )
-for i in "${!easylist[@]}"
+hosts=(
+  "https://adaway.org/hosts.txt"
+  "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
+  "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt"
+  "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/someonewhocares.org/hosts"
+  "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/yoyo.org/hosts"
+  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/dmz.txt"
+  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/adguard-chinese.txt"
+  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/fanboy-annoyance.txt"
+  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardMobileSpyware.txt"
+  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardMobileAds.txt"
+  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/rules-hosts.txt"
+)
+for i in "${!easylist[@]}" "${!hosts[@]}"
 do
   echo "开始下载 easylist${i}..."
   curl -k -o "./easylist${i}.txt" --connect-timeout 60 -s "${easylist[$i]}" &
+  curl -k -o "./hosts${i}.txt" --connect-timeout 60 -s "${hosts[$i]}" &
   # shellcheck disable=SC2181
   if [ $? -ne 0 ];then
     echo '下载失败，请重试'
@@ -36,7 +50,7 @@ do
 done
 wait
 
-cat easy*.txt | grep -Ev '#|\$|@|!|/|\\|\*'\
+cat hosts*.txt | grep -Ev '#|\$|@|!|/|\\|\*'\
  | grep -v -E "^((#.*)|(\s*))$" \
  | grep -v -E "^[0-9f\.:]+\s+(ip6\-)|(localhost|loopback)$" \
  | sed 's/127.0.0.1 //' | sed 's/0.0.0.0 //' \
@@ -50,5 +64,5 @@ counting=`cat easy* dns.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq
 tittle="! Title: Quickly List \n! Version: $time \n! Last Update: $date \n! Total count: $counting"
 echo -e "$tittle" > dns-list.txt
 cat easy* dns.txt abp-hosts.txt| grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq >> dns-list.txt
-rm -f easy*
+rm -f easy* hosts*
 exit

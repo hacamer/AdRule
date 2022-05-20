@@ -5,12 +5,15 @@ sed -i "s/! Version:.*/! Version: $time /g" rules-admin.txt url-filter.txt
 sed -i "s/! Last Update:.*/! Last Update: $date /g" rules-admin.txt url-filter.txt
 
 easylist=(
-  "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"
+  #"https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"
   "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
   "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
   "https://easylist.to/easylist/easyprivacy.txt"
   "https://filters.adtidy.org/windows/filters/224.txt"
   "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"
+  "https://github.com/Cats-Team/AdRules/blob/main/mod/rules/dns-rules.txt"
+  "https://github.com/Cats-Team/AdRules/blob/main/mod/rules/thrid-part-rules.txt"
+  "https://github.com/Cats-Team/AdRules/blob/main/mod/rules/adblock-rules.txt"
 )
 for i in "${!easylist[@]}"
 do
@@ -25,6 +28,8 @@ done
 wait
 
 cat rules-admin.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^" | grep -Fv "$" |sort | uniq > dns.txt
-cat easy* dns.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq > dns-list.txt
+counting=`cat easy* dns.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq |wc -l`
+tittle="! Title: Quickly List \n ! Version: $time \n ! Last Update: $date \n !Total count: $counting" > dns-list.txt
+cat easy* dns.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq >> dns-list.txt
 rm -f easy*
 exit

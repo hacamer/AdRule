@@ -29,9 +29,9 @@ hosts=(
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
 #  "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt"
 #  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/dmz.txt"
-  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/adguard-chinese.txt"
+#  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/adguard-chinese.txt"
 #  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/fanboy-annoyance.txt"
-  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardMobileSpyware.txt"
+#  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardMobileSpyware.txt"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardMobileAds.txt"
 )
 for i in "${!easylist[@]}" "${!hosts[@]}"

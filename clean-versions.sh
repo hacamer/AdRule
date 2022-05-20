@@ -11,9 +11,12 @@ easylist=(
   #"https://easylist.to/easylist/easyprivacy.txt"
   "https://filters.adtidy.org/windows/filters/224.txt"
   "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"
-  "https://github.com/Cats-Team/AdRules/blob/main/mod/rules/dns-rules.txt"
-  "https://github.com/Cats-Team/AdRules/blob/main/mod/rules/thrid-part-rules.txt"
-  "https://github.com/Cats-Team/AdRules/blob/main/mod/rules/adblock-rules.txt"
+  "https://github.com/Cats-Team/AdRules/raw/main/mod/rules/dns-rules.txt"
+  "https://github.com/Cats-Team/AdRules/raw/main/mod/rules/thrid-part-rules.txt"
+  "https://github.com/Cats-Team/AdRules/raw/main/mod/rules/adblock-rules.txt"
+  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt"
+  "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
+  "https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt"
 )
 for i in "${!easylist[@]}"
 do

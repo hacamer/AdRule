@@ -25,9 +25,9 @@ easylist=(
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
 )
 hosts=(
-  "https://adaway.org/hosts.txt"
+#  "https://adaway.org/hosts.txt"
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
-  "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt"
+#  "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/dmz.txt"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/adguard-chinese.txt"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/fanboy-annoyance.txt"
@@ -57,7 +57,7 @@ cat hosts*.txt | grep -Ev '#|\$|@|!|/|\\|\*'\
  | grep -E "^((\|\|)\S+\^)" > abp-hosts.txt
 
 cat rules-admin.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^" | grep -Fv "$" |sort | uniq > dns.txt
-counting=`cat easy* dns.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq |wc -l`
+counting=`cat easy* dns.txt abp-hosts.txt| grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq |wc -l`
 tittle="! Title: Quickly List \n! Version: $time \n! Last Update: $date \n! Total count: $counting"
 echo -e "$tittle" > dns-list.txt
 cat easy* dns.txt abp-hosts.txt| grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq >> dns-list.txt

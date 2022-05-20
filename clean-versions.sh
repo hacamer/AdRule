@@ -29,7 +29,8 @@ wait
 
 cat rules-admin.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^" | grep -Fv "$" |sort | uniq > dns.txt
 counting=`cat easy* dns.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq |wc -l`
-tittle="! Title: Quickly List \n ! Version: $time \n ! Last Update: $date \n !Total count: $counting" > dns-list.txt
+tittle="! Title: Quickly List \n ! Version: $time \n ! Last Update: $date \n !Total count: $counting"
+echo -e "$tittle" > dns-list.txt
 cat easy* dns.txt | grep -E "^[(\@\@)|(\|\|)][^\/\^]+\^$" |sort | uniq >> dns-list.txt
 rm -f easy*
 exit

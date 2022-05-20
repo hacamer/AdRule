@@ -8,7 +8,7 @@ easylist=(
   "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/nocoin.txt"
   "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
   #"https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt"
-  #"https://easylist.to/easylist/easyprivacy.txt"
+  "https://easylist.to/easylist/easylistchina.txt"
   "https://filters.adtidy.org/windows/filters/224.txt"
   "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt"
   "https://github.com/Cats-Team/AdRules/raw/main/mod/rules/dns-rules.txt"

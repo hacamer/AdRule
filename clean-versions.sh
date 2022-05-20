@@ -16,7 +16,7 @@ easylist=(
   "https://github.com/Cats-Team/AdRules/raw/main/mod/rules/adblock-rules.txt"
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt"
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
-  "https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt"
+  #"https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt"
 )
 for i in "${!easylist[@]}"
 do

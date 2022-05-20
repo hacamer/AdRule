@@ -171,6 +171,7 @@ m.bilibili.com##.mplayer-ending-panel-button
 m.bilibili.com##.launch-app-btnm-nav-openapp
 ||dl.hdslb.com/mobile/latest/*$document,domain=dl.hdslb.com
 bilibili.com##.clearfix.h5-download-bar.d-f-s
+m.bilibili.com##DIV.mplayer-widescreen-callapp
 
 !樱花动漫
 ||ps.ssl.qhmsg.com^

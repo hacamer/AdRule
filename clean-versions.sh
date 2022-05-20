@@ -17,6 +17,11 @@ easylist=(
   "https://raw.githubusercontent.com/Cats-Team/AdRules/main/mod/rules/adblock-rules.txt"
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt"
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt"
+  "https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt"
+  "https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt"
+  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt"
+  "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt"
+  "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt"
 )
 for i in "${!easylist[@]}"
 do

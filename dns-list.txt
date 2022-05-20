@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-05-21 01:42 
-! Last Update: 2022-05-21 01:42:45（北京时间） 
-! Total count: 2244
+! Version: 2022-05-21 01:44 
+! Last Update: 2022-05-21 01:44:17（北京时间） 
+! Total count: 2288
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -140,6 +140,7 @@
 ||997.000123456789.site^
 ||99999999.club^
 ||99e333.nbrlzy.com^
+||a-m-s.adnonstop.com^
 ||a-mo.net^
 ||a.ac.qq.com^
 ||a.breaktime.com.tw^
@@ -177,6 +178,7 @@
 ||activity.hnhnmg.com^
 ||activity.tuigorilla.com^
 ||ad.kshuiz.top^
+||ad.qn.img-space.com^
 ||ad.qq.com^
 ||ad.qun.qq.com^
 ||ad.toutiao.com^
@@ -249,10 +251,13 @@
 ||analy.qq.com^
 ||analy.tuniu.cn^
 ||analyse.weather.com.cn^
+||analysis.chinaiiss.com^
+||analytics-union.sandai.net^
 ||analytics-union.xunlei.com^
 ||analytics.163.com^
 ||analytics.21cn.com^
 ||analytics.map.qq.com^
+||analytics.oneplus.cn^
 ||analytics.samsungknox.com^
 ||analytics.snssdk.com^
 ||analytics.techweb.com.cn^
@@ -277,6 +282,7 @@
 ||api.wipmania.com^
 ||api.youtu.qq.com^
 ||apistat.gao7.com^
+||apistat.wasu.cn^
 ||apm.douyucdn.cn^
 ||apmconfig.douyucdn.cn^
 ||appchannel.html5.qq.com^
@@ -345,6 +351,7 @@
 ||belicimo.pw^
 ||berateveng.ru^
 ||besti.ga^
+||bestpush.pconline.com.cn^
 ||bfniq.theta.sogou.com^
 ||bhtbnb.qqqwww987.space^
 ||bi.ui.doulaihai.top^
@@ -352,6 +359,7 @@
 ||bigdata.ssp.samsung.com^
 ||bihaipack.com^
 ||bjfesdk.douyucdn.cn^
+||bjmantis.net^
 ||bkcommdata.v.qq.com^
 ||bksoup.v.qq.com^
 ||bl.emotionalworld.cn^
@@ -445,6 +453,7 @@
 ||chinayms.com^
 ||choice.microsoft.com^
 ||chuzushijian.cn^
+||cir-smart.baidu.com^
 ||city.baiwb.com^
 ||city.cbh365.club^
 ||city.youpukeji.cn^
@@ -460,6 +469,7 @@
 ||cm.e.qq.com^
 ||cm.jd.com^
 ||cm.l.qq.com^
+||cnpc.infzm.com^
 ||cns.wxdal.cn^
 ||cnzz.com^
 ||cnzz.hhttm.top^
@@ -476,8 +486,10 @@
 ||corp.sts.microsoft.com^
 ||count.candou.com^
 ||count.enet.com.cn^
+||count.iyaxin.com^
 ||count.nuanyuehanxing.com^
 ||count.pcauto.com.cn^
+||count.pcgames.com.cn^
 ||counter.pcauto.com.cn^
 ||counter.tianjimedia.com^
 ||countpage.sznews.com^
@@ -489,6 +501,7 @@
 ||cpt.9136.com^
 ||cpucdn.baidu.com^
 ||crash.browser.qq.com^
+||crs.baidu.com^
 ||cslpf.cn^
 ||ctivity.tuigorilla.com^
 ||ctlrnwbv.ru^
@@ -527,7 +540,9 @@
 ||data.mistat.intl.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
+||data.permittingnorthlandseamen.info^
 ||data.qq.com^
+||data.xici.net^
 ||data.zhongquanjy.com^
 ||dataflow.biliapi.com^
 ||dbkdwe1.com^
@@ -586,6 +601,7 @@
 ||dnzrx.blsenpg.cn^
 ||dnzrx.skfqxkk.cn^
 ||doiney.pandasone.com^
+||doremido.com^
 ||dotcounter.douyucdn.cn^
 ||dou.aspwg.cn^
 ||douyaobuy.com^
@@ -661,6 +677,7 @@
 ||fc.gaizong.cn^
 ||fc.tiepan.cn^
 ||fc.zuixinchao.com^
+||fcm.baidu.com^
 ||feedback.search.microsoft.com^
 ||feedback.windows.com^
 ||feesocrald.com^
@@ -680,6 +697,7 @@
 ||fjctlnn.top^
 ||fjjmnh.com^
 ||fks.ifdvlh.cn^
+||flash.banners-service.info^
 ||flowplayer.space^
 ||fm.qzone.qq.com^
 ||fmh.guangzhengtwentynine.top^
@@ -690,6 +708,7 @@
 ||fodder.qq.com^
 ||fodder.tc.qq.com^
 ||fticbox.qifake.com^
+||fundingchoicesmessages.google.com^
 ||fusion.qq.com^
 ||fw.qq.com^
 ||fxxrllt.com^
@@ -712,6 +731,7 @@
 ||gecko-hl.snssdk.com^
 ||gecko-lq.snssdk.com^
 ||gej.effectivehealthy.cn^
+||getapplicationmy.info^
 ||gft.aobuygo.com^
 ||gft.xuanyaosp.com^
 ||gft.yifujing.com^
@@ -733,6 +753,7 @@
 ||gobba.myeffect.net^
 ||goblin.hupu.com^
 ||gorgon.youdao.com^
+||goutong.baidu.com^
 ||gouwu.qq.com^
 ||gozendata.com^
 ||graftpool.ovh^
@@ -844,6 +865,8 @@
 ||ilyf4amifh.com^
 ||im-x.jd.com^
 ||images.kxuexue.com^
+||imall.cctv.com^
+||imall.cntv.cn^
 ||imasdk.googleapis.com^
 ||imc.l.qq.com^
 ||img-x.jd.com^
@@ -1014,6 +1037,7 @@
 ||kelvy.iomsew.com^
 ||ken.kenxq.com^
 ||kepler.jd.com^
+||kf.qingwk.com^
 ||kh.whyfate.cn^
 ||khj.dtsxn.cn^
 ||khn.txscn.cn^
@@ -1046,6 +1070,7 @@
 ||kstj.baidu.com^
 ||ktdlsb.com^
 ||ktu.twdjn.cn^
+||kuaishang.com.cn^
 ||kz.zf678.com^
 ||l.glrcy.cn^
 ||l.kscmt.cn^
@@ -1080,6 +1105,7 @@
 ||lixianghaodian.com^
 ||lkkskdkfjdk.qiangquanvip.com^
 ||lkm.bangyuandianzi.top^
+||ll.hudong.com^
 ||llaxl.com^
 ||lmbsy.qq.com^
 ||lmxxxz.com^
@@ -1092,6 +1118,7 @@
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-hl.snssdk.com^
 ||log.daqi.com^
+||log.mtime.cn^
 ||log.music.baidu.com^
 ||log.snssdk.com.bytedns.net^
 ||log.snssdk.com^
@@ -1100,6 +1127,7 @@
 ||log.wtlogin.qq.com^
 ||log.zongheng.com^
 ||log1wtlogin.qq.com^
+||log2.mtime.cn^
 ||log3-normal-lq.toutiaoapi.com^
 ||log6.reader.qq.com^
 ||logs.roku.com^
@@ -1376,6 +1404,7 @@
 ||oth.eve.qq.com^
 ||oth.str.mdt.qq.com^
 ||oth.update.mdt.qq.com^
+||other.v.duowan.com^
 ||otheve.beacon.qq.com^
 ||othstr.beacon.qq.com^
 ||ou12.dl12349.net^
@@ -1562,6 +1591,7 @@
 ||reader.sh.vip.qq.com^
 ||reauthenticator.com^
 ||recmd.html5.qq.com^
+||record.kuai.xunlei.com^
 ||redir.metaservices.microsoft.com^
 ||report.cms.qq.com^
 ||report.qq.com^
@@ -1600,6 +1630,7 @@
 ||s.pcapps.qq.com^
 ||s.pcmgr.qq.com^
 ||s.shufapeixun.shop^
+||s.so.360.cn^
 ||s.toutiao.com^
 ||s.union.360.cn^
 ||s11.zhangyumo.top^
@@ -1671,6 +1702,8 @@
 ||soup.v.qq.com^
 ||sourcecode.pro^
 ||sp.chemacid.cn^
+||sp.qf.56.com^
+||speednetwork14.com^
 ||spl.ztvx8.com^
 ||sports.shareman.xyz^
 ||spynet2.microsoft.com^
@@ -1690,27 +1723,35 @@
 ||sspservice.ad-survey.com^
 ||stadig.ifeng.com^
 ||star.hssapp.shop^
+||stat.baike.com^
 ||stat.cnmo.com^
+||stat.cqwb.com.cn^
+||stat.cutv.com^
 ||stat.download.xunlei.com^
 ||stat.ea3w.com^
 ||stat.game.yy.com^
 ||stat.gamedl.qq.com^
 ||stat.hebnews.cn^
+||stat.hkwb.net^
 ||stat.house365.com^
 ||stat.ijinshan.com^
 ||stat.img-space.com^
 ||stat.jc001.cn^
 ||stat.m.jd.com^
+||stat.mql5.com^
 ||stat.pchome.net^
 ||stat.timedg.com^
+||stat.ts.cn^
 ||stat.v.17173.com^
 ||stat.xgo.com.cn^
 ||stat.y.qq.com^
+||stat.yunfan.com^
 ||static.gridsumdissector.com^
 ||statics.jialuode.com^
 ||statics.woozooo.com^
 ||statis1.mama.cn^
 ||statistic.qzone.qq.com^
+||stats.766.com^
 ||stats.jpush.cn^
 ||stats.v.duowan.com^
 ||stdl.qq.com^
@@ -1939,6 +1980,7 @@
 ||wdfhbx.zdpeanut.com^
 ||wdn.lm343.com^
 ||weblog.html5.qq.com^
+||webservice.360doc.com^
 ||weifengtianxia.com^
 ||weixin.qq.hellocdn.top^
 ||weixin.qq.huigun.top^
@@ -2197,6 +2239,7 @@
 ||yqgzaewe.cn^
 ||ysdk.qq.com^
 ||ysjkbk.com^
+||ysont.cn^
 ||yt.egrent.cn^
 ||yt800h.com^
 ||ytxj.mercury.sogou.com^
@@ -2231,6 +2274,7 @@
 ||zl.shenhl.top^
 ||zminer.zaloapp.com^
 ||zndaowjdnf.stream^
+||zndsssp.dangbei.net^
 ||zpxw.vip^
 ||zs.dingyar.top^
 ||zs.zyzlpt.com^

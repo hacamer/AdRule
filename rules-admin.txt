@@ -213,7 +213,7 @@ tieba.baidu.com##.guide-btn
 ||httpdns.baidubce.com^
 tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.open-app
-
+tieba.baidu.com##.more-btn-desc
 ! 杂七杂八
 adcmove.com##div.fed-foot-info.fed-part-layout.fed-back-whits:nth-child(9) > div.fed-part-case > ins:last-child > div:nth-child(2)
 adcmove.com###\32 377029035902478992-10431 > div:first-child

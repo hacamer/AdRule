@@ -2286,6 +2286,7 @@
 ||pressly.com^
 ||preview.adsame.com^
 ||primetag.net^
+||privacidade.integra.global^
 ||privacy-cdn.sixfifty.com^
 ||privacy-center.org^
 ||privacy.claytonhomes.com^

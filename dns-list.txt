@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-05-21 09:55 
-! Last Update: 2022-05-21 09:55:28（北京时间） 
-! Total count: 5474
+! Version: 2022-05-21 16:41 
+! Last Update: 2022-05-21 16:41:49（北京时间） 
+! Total count: 5481
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -970,6 +970,7 @@
 ||appicsh.qq.com^
 ||appintop.com^
 ||applifier.com^
+||applog-perf.uc.cn^
 ||applog.reader.qq.com^
 ||applog.snssdk.com^
 ||applog.uc.cn^
@@ -2833,6 +2834,8 @@
 ||log-hl.snssdk.com^
 ||log.ad.xiaomi.com^
 ||log.daqi.com^
+||log.jd.com.gslb.qianxun.com^
+||log.jd.com^
 ||log.kajicam.com^
 ||log.m.sm.cn^
 ||log.mtime.cn^
@@ -2848,8 +2851,11 @@
 ||log1.cmpassport.com^
 ||log1wtlogin.qq.com^
 ||log2.mtime.cn^
+||log3-misc-lq.amemv.com^
 ||log3-normal-lq.toutiaoapi.com^
+||log5-misc-lq.amemv.com^
 ||log6.reader.qq.com^
+||loggate.moxigame.cn^
 ||logs.amap.com^
 ||logs.chelaile.net.cn^
 ||logs.roku.com^
@@ -4743,6 +4749,7 @@
 ||u.txuesoft.cn^
 ||u.x.jd.com^
 ||u1.idongde.com^
+||u3.ucweb.com^
 ||uapi.ads.heytapmobi.com^
 ||uapi.ads.oppomobile.com^
 ||uatu.newsquestdigital.co.uk^

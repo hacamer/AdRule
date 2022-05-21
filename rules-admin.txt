@@ -155,6 +155,10 @@ m.iqiyi.com##div.m-iqyGuide-layer
 m.iqiyi.com###app > div:nth-child(2) > div > div > div:nth-child(2) > div.m-box:first-child
 m.iqiyi.com###app > div:first-child > div.m-header-only > header.m-header.header-fixed.m-header-customized > div.m-user:last-child > div:last-child > div
 m.iqiyi.com###app > div:first-child > section.mSiteHeader.m-header-customized.m-header-channelHome > div.mSiteHeader-wrap > div.site_header:first-child > div:last-child > div
+m.iqiyi.com###app > div > div > div > div > div > .m-box
+m.iqiyi.com##.rank-link
+m.iqiyi.com##.m-videoUser-spacing
+
 
 !哔哩哔哩
 m.bilibili.com##.home-float-openapp.launch-app-btn

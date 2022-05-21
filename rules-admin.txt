@@ -211,6 +211,8 @@ tieba.baidu.com##.guide-btn
 ||c.tieba.baidu.com/c/f/forum/getAdInfo
 ||pn.baidu.com/*ad^
 ||httpdns.baidubce.com^
+tieba.baidu.com##.nav-bar-bottom
+tieba.baidu.com##.open-app
 
 ! 杂七杂八
 adcmove.com##div.fed-foot-info.fed-part-layout.fed-back-whits:nth-child(9) > div.fed-part-case > ins:last-child > div:nth-child(2)

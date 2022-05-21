@@ -256,6 +256,8 @@ zhihu.com##.css-1svfsgz-OpenInAppButton.OpenInAppButton
 
 ! Youku
 youku.com##.info-bottom_3C0mQ, .show_C8p0e
+youku.com##.callEnd_box
+youku.com###download_btn
 
 ! 坚果云
 @@||dav.jianguoyun.com^

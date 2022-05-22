@@ -64,6 +64,7 @@
 ||abtest.mistat.xiaomi.com^
 ||abtest.swrve.com^
 ||accengage.net^
+||acconsento.click^
 ||acs.56.com^
 ||acs.agent.56.com^
 ||acs.agent.v-56.com^

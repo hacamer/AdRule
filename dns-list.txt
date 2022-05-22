@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-05-22 00:51 
-! Last Update: 2022-05-22 00:51:40（北京时间） 
-! Total count: 5482
+! Version: 2022-05-22 10:20 
+! Last Update: 2022-05-22 10:20:55（北京时间） 
+! Total count: 5483
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -235,6 +235,7 @@
 ||access.pangolin-sdk-toutiao-b.com^
 ||access.toggle.qq.com^
 ||access1.tpns.tencent.com^
+||acconsento.click^
 ||acgshenshicha.cn^
 ||ackcdn.net^
 ||acs.56.com^

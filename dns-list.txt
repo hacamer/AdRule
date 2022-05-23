@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-05-23 16:43 
-! Last Update: 2022-05-23 16:43:10（北京时间） 
-! Total count: 5483
+! Version: 2022-05-24 00:53 
+! Last Update: 2022-05-24 00:53:59（北京时间） 
+! Total count: 5488
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -788,6 +788,7 @@
 ||ajdivotdelbloab24.jio.com^
 ||akamai.smartadserver.com^
 ||aksdkfj.biexsite.net^
+||aksjdfk.guohexinxiang.com^
 ||aksldkjfd.11jianzhan.com^
 ||alertme.news^
 ||alerts.ndtv.com^
@@ -1015,6 +1016,7 @@
 ||asf1v.vancuongthinh.com^
 ||askdfjk.qiangquanvip.com^
 ||askdfjkls.moxiaoqihuoguo.com^
+||askdfjsl.hntezhi.com^
 ||askdjfsl.51gongxiao.com^
 ||askdjfsl.alictibet.com^
 ||aslkdjfkdls.lzljhs.com^
@@ -1768,6 +1770,7 @@
 ||dg.sawadeca.com^
 ||dg.xxgslt.com^
 ||dg186.cn^
+||dgb.hnbhrt.xyz^
 ||dgstatic.jd.com^
 ||dgxlm.xyz^
 ||dhpikd1t89arn.cloudfront.net^
@@ -2872,6 +2875,7 @@
 ||lpmzt.cn^
 ||ls.l.qq.com^
 ||lsdkfjsld.aynanjianyy.com^
+||lsdkjfdk.jxgd1688.com^
 ||lsdkjfkdlsf.ydtykj.net^
 ||lsdkjfslkdf.jiumai88.com^
 ||lsj2.5aer.com^
@@ -4699,6 +4703,7 @@
 ||truepush.com^
 ||ts166.net^
 ||tsdf.ajzsa.xyz^
+||tsdflsdk.cypcb.net^
 ||tsis.jpush.cn^
 ||ttpp.xsbooktxt.com^
 ||tubemogul.com^

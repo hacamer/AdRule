@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-05-24 16:43 
-! Last Update: 2022-05-24 16:43:19（北京时间） 
-! Total count: 5488
+! Version: 2022-05-25 00:57 
+! Last Update: 2022-05-25 00:57:15（北京时间） 
+! Total count: 5487
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -834,7 +834,6 @@
 ||analytics.163.com^
 ||analytics.21cn.com^
 ||analytics.map.qq.com^
-||analytics.oneplus.cn^
 ||analytics.samsungknox.com^
 ||analytics.scalemonk.com^
 ||analytics.snssdk.com^

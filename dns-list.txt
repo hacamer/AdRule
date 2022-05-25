@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-05-25 10:31 
-! Last Update: 2022-05-25 10:31:10（北京时间） 
-! Total count: 5487
+! Version: 2022-05-25 16:43 
+! Last Update: 2022-05-25 16:43:05（北京时间） 
+! Total count: 5486
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -3876,7 +3876,6 @@
 ||qrius.me^
 ||qservz.com^
 ||qss-client.qq.com^
-||qualtrics.com^
 ||quantcast.mgr.consensu.org^
 ||quanxiaozi.com^
 ||quarepush.com^

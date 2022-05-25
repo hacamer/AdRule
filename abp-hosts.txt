@@ -2418,7 +2418,6 @@
 ||qqwx.zhangguangzong.com^
 ||qrius.me^
 ||qservz.com^
-||qualtrics.com^
 ||quantcast.mgr.consensu.org^
 ||quarepush.com^
 ||quaruzon.com^

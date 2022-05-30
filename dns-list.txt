@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-05-30 16:43 
-! Last Update: 2022-05-30 16:43:45（北京时间） 
-! Total count: 5502
+! Version: 2022-05-31 00:55 
+! Last Update: 2022-05-31 00:55:23（北京时间） 
+! Total count: 5505
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -11,11 +11,13 @@
 @@||azureedge.net^
 @@||bkimg.cdn.bcebos.com^
 @@||cdn.ark.qq.com^
+@@||click.mz.simba.taobao.com^
 @@||dash.cloudflare.com^
 @@||dash.xns.one^
 @@||doc.weixin.qq.com^
 @@||drive.quark.cn^
 @@||feedback.miui.com^
+@@||gg.gg^
 @@||gw.m.163.com^
 @@||idqqimg.com^
 @@||ilce.alicdn.com^
@@ -814,6 +816,7 @@
 ||alogsus.umeng.com^
 ||alogus.umeng.com^
 ||als.baidu.com^
+||alt-ad.mail.ru^
 ||altavista.ovh^
 ||altitude-arena.com^
 ||am15.net^

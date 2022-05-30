@@ -595,6 +595,7 @@
 ||alogsus.umeng.com^
 ||alogus.umeng.com^
 ||als.baidu.com^
+||alt-ad.mail.ru^
 ||altitude-arena.com^
 ||am15.net^
 ||ama.adwo.com^

@@ -2348,6 +2348,7 @@
 ||push.getbeamer.com^
 ||push.knd.ro^
 ||push.neko-san.fr^
+||push.newscraft.io^
 ||push.pgl.qq.com^
 ||push.rent^
 ||push.rollout.io^

@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-05-31 16:44 
-! Last Update: 2022-05-31 16:44:48（北京时间） 
-! Total count: 5505
+! Version: 2022-06-01 00:59 
+! Last Update: 2022-06-01 00:59:02（北京时间） 
+! Total count: 5510
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -67,7 +67,6 @@
 ||036e.cn^
 ||04.lzzncm.com^
 ||0m483y7.cn^
-||0x1f4b0.com^
 ||1.98765432100.online^
 ||10181819sunday.hqnpwzu.cn^
 ||10191916monday.hqnpwzu.cn^
@@ -1629,6 +1628,7 @@
 ||cpoml.iask.sina.com.cn^
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
+||cpro.zol.com.cn^
 ||cpt.9136.com^
 ||cpucdn.baidu.com^
 ||cpxinteractive.com^
@@ -3577,6 +3577,7 @@
 ||pcxzo.pluto.sogou.com^
 ||pdheuryopd.loan^
 ||pdn.applovin.com^
+||pdrtcgfx.cn^
 ||pepper.com^
 ||percent.pfiparts.com^
 ||perf-events.cloud.unity3d.com^
@@ -3854,6 +3855,7 @@
 ||qdt.lxksalary.com^
 ||qdt.zjzh2019.com^
 ||qeryz.com^
+||qfnoyix.cn^
 ||qg1v.adroition.net^
 ||qgss8.com^
 ||qhicumg.cn^
@@ -4257,6 +4259,7 @@
 ||siteswithcontent.com^
 ||sixiuwl.cn^
 ||sjarvis.taobao.com^
+||sjoy7rq.cn^
 ||skadnetwork.singular.net^
 ||skdisplay.jd.com^
 ||skencituer.com^
@@ -5325,6 +5328,7 @@
 ||xls.go.sohu.com^
 ||xm.lyszsz.cn^
 ||xmaterial.tu.qq.com^
+||xmkbrfyu.cn^
 ||xn--mtso8sj6menhyil.online^
 ||xn--wxtr44c.video^
 ||xn--wxtr9fwyxk9c.xn--fiqs8s^
@@ -5351,6 +5355,7 @@
 ||y76.ylems.club^
 ||y7r.930cn.top^
 ||yandexadexchange.net^
+||yangjie.asia^
 ||yaodaipeishi.cn^
 ||yaolan.adsame.com^
 ||yaolu.mh.163.com^

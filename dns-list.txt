@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-01 16:53 
-! Last Update: 2022-06-01 16:53:18（北京时间） 
-! Total count: 5512
+! Version: 2022-06-02 00:57 
+! Last Update: 2022-06-02 00:57:28（北京时间） 
+! Total count: 5522
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -18,6 +18,7 @@
 @@||drive.quark.cn^
 @@||feedback.miui.com^
 @@||gg.gg^
+@@||gift.douyucdn.cn^
 @@||gw.m.163.com^
 @@||idqqimg.com^
 @@||ilce.alicdn.com^
@@ -386,6 +387,7 @@
 ||adashx4yt.m.taobao.com^
 ||adashxgc.ut.taobao.com^
 ||adavideo.baidu.com^
+||adayvquq.cn^
 ||adback.tango.me^
 ||adbana.com^
 ||adbehavior.ximalaya.com^
@@ -2255,6 +2257,7 @@
 ||gyjinchuang.vip^
 ||gynax.com^
 ||gz-data.com^
+||gzasiatech.net^
 ||gzdata.com.cn^
 ||gzqvd.cn^
 ||h-adashx.ut.ele.me^
@@ -3848,6 +3851,7 @@
 ||qappcenterv6.3g.qq.com^
 ||qaq.lm665.com^
 ||qautodl.qq.com^
+||qaxkwxpf.cn^
 ||qbreport.html5.qq.com^
 ||qc.wqshui.com^
 ||qdff.zxwstong.com^
@@ -4499,6 +4503,7 @@
 ||swishu.com^
 ||switchadhub.com^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
+||sxk9m8x.cn^
 ||sydz.tw^
 ||synapsys.us^
 ||sync.3g.qq.com^
@@ -5065,6 +5070,7 @@
 ||wpshsdk.com^
 ||wpush.biz^
 ||wpushsdk.com^
+||wpwpquse.cn^
 ||ws.sj.qq.com^
 ||wsnew.cn^
 ||wspeed.qq.com^
@@ -5205,6 +5211,7 @@
 ||www.qchannel04.cn^
 ||www.qkixi.com^
 ||www.qqads.com^
+||www.qsixi.com^
 ||www.qwupoq.com^
 ||www.qysfa.com^
 ||www.rdezbie.com^
@@ -5290,6 +5297,7 @@
 ||xc.shigl.top^
 ||xc.wagzqhq.cn^
 ||xc.yynncbn.cn^
+||xcc.nbfieef.cn^
 ||xcmz999.com^
 ||xd.mediav.com^
 ||xdcs-collector.ximalaya.com^
@@ -5385,6 +5393,7 @@
 ||yk-ssp.ad.youku.com^
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
+||ykcjxvg.cn^
 ||ykl.qnipkk.xyz^
 ||yktd.m.cn.miaozhen.com^
 ||ykugc.cp31.ott.cibntv.net.302.myalicdn.com^
@@ -5425,6 +5434,7 @@
 ||yuehesh.com^
 ||yuhuads.com^
 ||yunl1.com^
+||yusnw.cc^
 ||yy.xinqiannv.com^
 ||yyds.0310cn.com^
 ||yystzl.cn^

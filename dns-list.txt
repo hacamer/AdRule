@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-01 10:59 
-! Last Update: 2022-06-01 10:59:06（北京时间） 
-! Total count: 5510
+! Version: 2022-06-01 16:53 
+! Last Update: 2022-06-01 16:53:18（北京时间） 
+! Total count: 5512
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -3972,6 +3972,7 @@
 ||resolver.msg.xiaomi.net^
 ||rest.irs01.com^
 ||restartad.com^
+||restorationbowelsunflower.com^
 ||retarget.ssl-services.com^
 ||return.adsame.com^
 ||revcontent.com^
@@ -5163,6 +5164,7 @@
 ||www.hebeixingfei.com^
 ||www.hiweha.com^
 ||www.hlgglm.com^
+||www.huizai.top^
 ||www.hxcav77.com^
 ||www.ilaohuyou.xyz^
 ||www.inmobi.com^

@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-02 10:39 
-! Last Update: 2022-06-02 10:39:14（北京时间） 
-! Total count: 5522
+! Version: 2022-06-02 16:44 
+! Last Update: 2022-06-02 16:44:14（北京时间） 
+! Total count: 5524
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -1066,6 +1066,7 @@
 ||avazutracking.net^
 ||avis-verifies.com^
 ||awake-stats.jpush.cn^
+||awkdjfkdsjk.duxingangtiaoban.com^
 ||awltovhc.com^
 ||awsfjlalsf.huiyigou111.com^
 ||axept.io^
@@ -4534,6 +4535,7 @@
 ||t.youmi.net^
 ||t1.a.market.xiaomi.com^
 ||t13.9to5google.com^
+||t1tgame.com^
 ||t2.a.market.xiaomi.com^
 ||t23o.cn^
 ||t3.a.market.xiaomi.com^

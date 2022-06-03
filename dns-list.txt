@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-03 16:39 
-! Last Update: 2022-06-03 16:39:03（北京时间） 
-! Total count: 5529
+! Version: 2022-06-04 00:52 
+! Last Update: 2022-06-04 00:52:14（北京时间） 
+! Total count: 5530
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -1495,6 +1495,7 @@
 ||cmp.idg.pl^
 ||cmp.infopro-digital.com^
 ||cmp.internetstandard.pl^
+||cmp.lavie.fr^
 ||cmp.lepoint.fr^
 ||cmp.nextday.media^
 ||cmp.osano.com^

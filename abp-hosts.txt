@@ -1062,6 +1062,7 @@
 ||cmp.idg.pl^
 ||cmp.infopro-digital.com^
 ||cmp.internetstandard.pl^
+||cmp.lavie.fr^
 ||cmp.lepoint.fr^
 ||cmp.nextday.media^
 ||cmp.osano.com^

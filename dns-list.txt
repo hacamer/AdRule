@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-04 10:16 
-! Last Update: 2022-06-04 10:16:02（北京时间） 
-! Total count: 5530
+! Version: 2022-06-04 16:38 
+! Last Update: 2022-06-04 16:38:11（北京时间） 
+! Total count: 5532
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -508,8 +508,10 @@
 ||adpublish.ydstatic.com^
 ||adpublisher.s3.amazonaws.com^
 ||adpush.goforandroid.com^
+||adpushup.com^
 ||adquota.com^
 ||adrdir.qq.com^
+||adrecover.com^
 ||adreport.adtianmai.com^
 ||adreq.vivo.com.cn^
 ||adres.myaora.net^

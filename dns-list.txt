@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-07 16:41 
-! Last Update: 2022-06-07 16:41:34（北京时间） 
-! Total count: 5538
+! Version: 2022-06-08 00:54 
+! Last Update: 2022-06-08 00:54:27（北京时间） 
+! Total count: 5539
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -35,6 +35,7 @@
 @@||myqqjd.com^
 @@||nebula.kuaishou.com^
 @@||news-events.apple.com^
+@@||nmobi.kuwo.cn^
 @@||odin.re.taobao.com^
 @@||p.qlogo.cn^
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^

@@ -1161,6 +1161,7 @@
 ||cookiescript.info^
 ||cookietagmanager.net^
 ||cookiethough.dev^
+||cookiewidget.eu^
 ||copush.com^
 ||corebug.adsame.com^
 ||count.game.pps.tv^
@@ -2299,6 +2300,7 @@
 ||privacymanager.io^
 ||privacypolicy.trgr.be^
 ||privacyportal.fatergroup.com^
+||private.dmscookie.com^
 ||privy.com^
 ||pro.cn^
 ||prod.cm.publishers.advertising.a2z.com^

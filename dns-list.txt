@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-07 10:22 
-! Last Update: 2022-06-07 10:22:43（北京时间） 
-! Total count: 5536
+! Version: 2022-06-07 16:41 
+! Last Update: 2022-06-07 16:41:34（北京时间） 
+! Total count: 5538
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -1609,6 +1609,7 @@
 ||cookiescript.info^
 ||cookietagmanager.net^
 ||cookiethough.dev^
+||cookiewidget.eu^
 ||cooperation.html5.qq.com^
 ||copush.com^
 ||corebug.adsame.com^
@@ -3720,6 +3721,7 @@
 ||privacymanager.io^
 ||privacypolicy.trgr.be^
 ||privacyportal.fatergroup.com^
+||private.dmscookie.com^
 ||privy.com^
 ||pro.cn^
 ||prod.cm.publishers.advertising.a2z.com^

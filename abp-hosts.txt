@@ -2039,6 +2039,7 @@
 ||nc.gdt.qq.com^
 ||nearbyad.com^
 ||nend.net^
+||neopush.io^
 ||neptune.appads.com^
 ||neptune1.appads.com^
 ||neptune2.appads.com^

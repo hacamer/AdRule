@@ -15,3 +15,4 @@
 # Coding地址：[链接](https://hacamer.coding.net/public/adgurd/adrules/git/files)
 # 特别鸣谢
 - [@杏梢](https://github.com/hacamer)
+- [@asky88](https://github.com/asky88)

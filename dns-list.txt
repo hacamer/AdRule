@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-10 10:33 
-! Last Update: 2022-06-10 10:33:29（北京时间） 
-! Total count: 5543
+! Version: 2022-06-10 16:39 
+! Last Update: 2022-06-10 16:39:49（北京时间） 
+! Total count: 5546
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -1385,8 +1385,10 @@
 ||cdn.weiye.net^
 ||cdn.wibiya.com^
 ||cdn.wuxiqiangheng.com^
+||cdn.xianchengyou.com^
 ||cdn.xianliao.me^
 ||cdn0.mobmore.com^
+||cdn0.sxhjty.cn^
 ||cdn0.weinin99.cn^
 ||cdn1.crispadvertising.com^
 ||cdn1.inner-active.mobi^
@@ -2639,6 +2641,7 @@
 ||js.bluecarvin.xyz^
 ||js.brow.si^
 ||js.brstke.top^
+||js.btgoo.cc^
 ||js.dilidd.com^
 ||js.js-tianqilm.com^
 ||js.keeyekey.xyz^

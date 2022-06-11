@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-11 16:38 
-! Last Update: 2022-06-11 16:38:23（北京时间） 
-! Total count: 5546
+! Version: 2022-06-12 00:46 
+! Last Update: 2022-06-12 00:46:50（北京时间） 
+! Total count: 5548
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -1379,8 +1379,10 @@
 ||cdn.pg88cdn.com^
 ||cdn.pyadx.com^
 ||cdn.read.html5.qq.com^
+||cdn.smilk.cc^
 ||cdn.trafficforce.com^
 ||cdn.unityads.unity3d.com^
+||cdn.vue-js.cyou^
 ||cdn.weiye.net^
 ||cdn.wibiya.com^
 ||cdn.wuxiqiangheng.com^

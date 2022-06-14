@@ -2683,6 +2683,7 @@
 ||siteswithcontent.com^
 ||sjarvis.taobao.com^
 ||skadnetwork.singular.net^
+||skadsdk.appsflyer.com^
 ||skryptcookies.pl^
 ||skyplayer.tiscali.it^
 ||skysa.com^

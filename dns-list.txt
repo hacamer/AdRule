@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-14 16:40 
-! Last Update: 2022-06-14 16:40:52（北京时间） 
-! Total count: 5554
+! Version: 2022-06-15 00:53 
+! Last Update: 2022-06-15 00:53:48（北京时间） 
+! Total count: 5565
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -1753,6 +1753,7 @@
 ||datax.baidu.com^
 ||dbkdwe1.com^
 ||dc.sigmob.cn^
+||dc.wtiaw.top^
 ||dc.yuntuxianzhi.com^
 ||dc.zj-yxw.com^
 ||dcads.sina.com.cn^
@@ -1908,6 +1909,7 @@
 ||e.cn.miaozhen.com^
 ||e.domob.cn^
 ||e.duomeng.org^
+||e.kuaishou.com^
 ||e.n5ta9.site^
 ||e.qbj8.com^
 ||e.qq.com^
@@ -2107,6 +2109,7 @@
 ||fundingchoicesmessages.google.com^
 ||fusion.qq.com^
 ||fusionads.net^
+||fv.nftjjw.com^
 ||fw.qq.com^
 ||fwcdn2.com^
 ||fwcdn3.com^
@@ -2813,7 +2816,6 @@
 ||letv.irs01.com^
 ||letv.m.cn.miaozhen.com^
 ||lf.snssdk.com^
-||lf1-cdn-tos.bytegoofy.com^
 ||lfstmedia.com^
 ||lgjygg.com^
 ||lgpdy.com^
@@ -2857,6 +2859,7 @@
 ||lmxxxz.com^
 ||lnk9c.amvecurt.cn^
 ||lnk9v.amvecurt.cn^
+||lnm.guozhongwang.cn^
 ||local.adguard.org^
 ||location.ximalaya.com^
 ||log*-normal-lq.toutiaoapi.com^
@@ -3024,6 +3027,7 @@
 ||mblapi.ssl2.duapps.com^
 ||mbn.com.ua^
 ||mbr.baiyishaonian.cn^
+||mbt.hongmao39.top^
 ||mbt.tangk.top^
 ||mc.a48505.cn^
 ||mc.aefmbeq.cn^
@@ -3300,6 +3304,7 @@
 ||nbk.lm226.com^
 ||nbk.lm336.com^
 ||nbk.lm553.com^
+||nbr.yangshengzu.cn^
 ||nbsdk-baichuan.alicdn.com^
 ||nc.gdt.qq.com^
 ||nearbyad.com^
@@ -3602,8 +3607,10 @@
 ||pdn.applovin.com^
 ||pdrtcgfx.cn^
 ||pepper.com^
+||percent.nbgsintl.com^
 ||percent.pfiparts.com^
 ||perf-events.cloud.unity3d.com^
+||pernet.zzycj.com^
 ||pflexads.com^
 ||pflrv.cn^
 ||pg-ad-b1.ws.126.net^
@@ -3754,6 +3761,7 @@
 ||prre.ru^
 ||prt-stsdk.vivo.com.cn^
 ||prt.stsdk.vivo.com.cn^
+||prt.uwnvcxb.cn^
 ||ps.browser.qq.com^
 ||psfq.gou.sogou.com^
 ||psh.one^
@@ -4289,6 +4297,7 @@
 ||sjarvis.taobao.com^
 ||sjoy7rq.cn^
 ||skadnetwork.singular.net^
+||skadsdk.appsflyer.com^
 ||skdisplay.jd.com^
 ||skencituer.com^
 ||skryptcookies.pl^
@@ -4888,6 +4897,7 @@
 ||v1-play.log.mgtv.com^
 ||v1.cnzz.com^
 ||v16.56.com^
+||v1qs.ywsywh.cn^
 ||v2.da.mgtv.com^
 ||v2.gdt.qq.com^
 ||v2.log.mgtv.com^
@@ -4908,6 +4918,7 @@
 ||vapi.tiandi.com^
 ||variety.tc.qq.com^
 ||vas-hl-x.snssdk.com^
+||vb.yubingyuan.top^
 ||vbaof.admaster.com.cn^
 ||vcardsdkservice.vivo.com.cn^
 ||vcl-brain.snssdk.com^

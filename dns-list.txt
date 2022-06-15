@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-15 16:42 
-! Last Update: 2022-06-15 16:42:07（北京时间） 
-! Total count: 5565
+! Version: 2022-06-16 00:50 
+! Last Update: 2022-06-16 00:50:56（北京时间） 
+! Total count: 5566
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -737,6 +737,7 @@
 ||advertpay.vip.xunlei.com^
 ||advertur.ru^
 ||adview.cn^
+||advil.waze.com^
 ||advombat.ru^
 ||adwbs.ximalaya.com^
 ||adwhirl.com^

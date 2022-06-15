@@ -530,6 +530,7 @@
 ||advertpay.vip.xunlei.com^
 ||advertur.ru^
 ||adview.cn^
+||advil.waze.com^
 ||advombat.ru^
 ||adwbs.ximalaya.com^
 ||adwhirl.com^

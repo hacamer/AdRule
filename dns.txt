@@ -4,9 +4,8 @@
 @@||img.zuoyebang.cc^
 ||*.fghpro.xyz^
 ||*logtj.zuoyebang.cc^
-||118.89.204.198^
-||119.29.29.29^
 ||adashbc.ut.taobao.com^
+||analytics.map.qq.com^
 ||android.bugly.qq.com^
 ||api.ad.xiaomi.com^
 ||apiugc.zybang.com^

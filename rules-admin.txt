@@ -6,6 +6,23 @@
 ! Description: 移除一些烦人的元素
 !
 !
+! 统计类
+||in.appcenter.ms/logs?
+||napp.catchingnow.com/logs
+||analytics.map.qq.com^
+||iwx.mail.qq.com/info/report
+||oss.mail.qq.com/cgi-bin/oss_log
+
+! 通配符拦截
+*/log/client/*
+*/log/ad/*
+*/log/collect/*
+*/app_log/*
+
+! 话本小说
+||sdk-conf.getui.com^$app=com.huabenapp
+||www.ihuaben.com/book/app/vipReadWaitSecond^
+
 ! 网易云音乐log搜集
 ||clientlog*.music.163.com^
 ||clientlog3.music.163.com^
@@ -471,8 +488,6 @@ xda-developers.com###purch-parent-ad-container-id
 ||sdk.voiceads.cn^
 ||img.voiceads.cn^
 ||sdk.e.qq.com^
-||118.89.204.198^
-||119.29.29.29^
 ||api.zhihu.com/*vip_tab^
 ||api.zhihu.com/api/user/prod/user/info/collections/upload
 ||api.zhihu.com/fringe/ad
@@ -538,7 +553,7 @@ xda-developers.com###purch-parent-ad-container-id
 ||app.market.xiaomi.com/apm/search/guidepage?
 ||app.market.xiaomi.com/apm/featuredV2^
 ||app.market.xiaomi.com/apm/search/hotword^
-
+|app.market.xiaomi.com/apm/app/recommendtab$
 ! CookAPK直接禁止访问京东与头条域名
 ||*jd.com^$app=com.coolapk.market
 ||*toutiao.com^$app=com.coolapk.market

@@ -28,6 +28,7 @@
 ||95.213.231.34^
 ||a-ad.adwo.com^
 ||a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com^
+||a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com^
 ||a.76674bdad304297eda3d325f449f6f49.com^
 ||a.api.ad-locus.com^
 ||a.appjiagu.com^
@@ -2500,7 +2501,6 @@
 ||rt.funshion.net^
 ||rtapi.abbi.io^
 ||rtas.videocc.net^
-||rtb.adentifi.com^
 ||rtb.admaster.com.cn^
 ||rtb.adview.cn^
 ||rtb.appbid.com^
@@ -3263,6 +3263,7 @@
 ||wxsnsdy.tc.qq.com^
 ||wxsnsdy.video.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
+||x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
 ||x.adnet.qq.com^
 ||x.adpro.cn^
 ||x.appbaqend.com^

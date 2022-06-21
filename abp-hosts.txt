@@ -3180,6 +3180,7 @@
 ||widgets.getpocket.com^
 ||widgets.itaringa.net^
 ||widgets.itunes.apple.com^
+||widgets.openli.com^
 ||widgets.outbrain.com^
 ||widgets.recruitology.com^
 ||widgets.sprinkletxt.com^

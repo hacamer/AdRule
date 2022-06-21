@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-21 01:29 
-! Last Update: 2022-06-21 01:29:10（北京时间） 
-! Total count: 5572
+! Version: 2022-06-21 10:31 
+! Last Update: 2022-06-21 10:31:33（北京时间） 
+! Total count: 5583
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -2032,6 +2032,7 @@
 ||fc.080999.cn^
 ||fc.dt243100.com^
 ||fc.gaizong.cn^
+||fc.hxwxfc.cn^
 ||fc.tiepan.cn^
 ||fc.zuixinchao.com^
 ||fclog.baidu.com^
@@ -2057,6 +2058,7 @@
 ||fg.daochengwowo.top^
 ||fg.geoparker.net^
 ||fg.glwxw.net^
+||fg.qdzilh.cn^
 ||fg.rmzbfum.cn^
 ||fg.yilianqing.com^
 ||fgn.nphqw.cn^
@@ -2347,6 +2349,7 @@
 ||hm.l.qq.com^
 ||hmjs.cnmo-img.com.cn^
 ||hmma.baidu.com^
+||hmt.zygkzytb.cn^
 ||hn-button.herokuapp.com^
 ||hn.sportsdream.top^
 ||hnb2c.adsame.com^
@@ -2371,6 +2374,7 @@
 ||hqs7.cnzz.com^
 ||hqs9.cnzz.com^
 ||hqsjc.com^
+||hrt.yukariyakumo.cn^
 ||hs-banner.com^
 ||hsleadflows.net^
 ||hssapp.shop^
@@ -2568,8 +2572,10 @@
 ||iyes.youku.com^
 ||j.55555555555.xyz^
 ||j.5idoy8p7.live^
+||j.afk3rs.xyz^
 ||j.aishangdaike.com^
 ||j.appjiagu.com^
+||j.b0rbgroup.xyz^
 ||j.dailiqing.net^
 ||j.guotaotaoci.net^
 ||j.gxlsjt.com^
@@ -2904,6 +2910,7 @@
 ||logservice1.hicloud.com^
 ||look.kfiopkln.com^
 ||loopme.me^
+||lop.lamimi.cn^
 ||loveclaw.com^
 ||lovegg.club^
 ||lp.mp.mydas.mobi^
@@ -3033,6 +3040,7 @@
 ||mblapi.ssl2.duapps.com^
 ||mbn.com.ua^
 ||mbr.baiyishaonian.cn^
+||mbt.deeterno.cn^
 ||mbt.hongmao39.top^
 ||mbt.tangk.top^
 ||mc.a48505.cn^
@@ -3405,6 +3413,7 @@
 ||ntt.postserviceuk.com^
 ||ntvsw.com^
 ||numbers.md^
+||nvr.jiangjiu.org.cn^
 ||nxes.mercury.sogou.com^
 ||nxtck.com^
 ||nycp-hlb.dvgtm.akadns.net^
@@ -3879,6 +3888,7 @@
 ||px.xiaomifood.cn^
 ||py.da.mgtv.com^
 ||q.baminw.com.cn^
+||q.e49.xyz^
 ||q.i.gdt.qq.com^
 ||q14.cnzz.com^
 ||q8.ttly888.com^
@@ -5079,6 +5089,7 @@
 ||widgets.getpocket.com^
 ||widgets.itaringa.net^
 ||widgets.itunes.apple.com^
+||widgets.openli.com^
 ||widgets.outbrain.com^
 ||widgets.recruitology.com^
 ||widgets.sprinkletxt.com^

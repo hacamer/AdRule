@@ -953,6 +953,7 @@
 ||cc.map.qq.com^
 ||cca.mob.com^
 ||ccdace.hupu.com^
+||ccm19.de^
 ||ccmp.eu^
 ||ccpa-script.psg.nexstardigital.net^
 ||cctv.adsunion.com^

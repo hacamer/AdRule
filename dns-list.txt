@@ -1,6 +1,6 @@
 ! Title: Quickly List 
-! Version: 2022-06-27 16:42 
-! Last Update: 2022-06-27 16:42:22（北京时间） 
+! Version: 2022-06-28 00:57 
+! Last Update: 2022-06-28 00:57:54（北京时间） 
 ! Total count: 5596
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^

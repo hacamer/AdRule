@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-30 01:17 
-! Last Update: 2022-06-30 01:17:41（北京时间） 
-! Total count: 5599
+! Version: 2022-06-30 10:41 
+! Last Update: 2022-06-30 10:41:39（北京时间） 
+! Total count: 5601
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -720,6 +720,7 @@
 ||adultmoda.com^
 ||aduu.cn^
 ||adv-ettoday.cdn.hinet.net^
+||adv-front.devpnd.com^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||adv.app.qq.com^
@@ -919,6 +920,7 @@
 ||api.fd.mob.com^
 ||api.fusepowered.com^
 ||api.groupon.com^
+||api.itpub.cloud^
 ||api.kiip.me^
 ||api.leadbolt.net^
 ||api.lwxs99.com^

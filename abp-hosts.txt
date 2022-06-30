@@ -513,6 +513,7 @@
 ||adultmoda.com^
 ||aduu.cn^
 ||adv-ettoday.cdn.hinet.net^
+||adv-front.devpnd.com^
 ||adv.app.qq.com^
 ||adv.ettoday.net^
 ||adv.fjtv.net^
@@ -665,6 +666,7 @@
 ||api.fd.mob.com^
 ||api.fusepowered.com^
 ||api.groupon.com^
+||api.itpub.cloud^
 ||api.kiip.me^
 ||api.leadbolt.net^
 ||api.mediation.amberweather.com^

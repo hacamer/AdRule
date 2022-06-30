@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-30 16:44 
-! Last Update: 2022-06-30 16:44:22（北京时间） 
-! Total count: 5603
+! Version: 2022-07-01 00:58 
+! Last Update: 2022-07-01 00:58:55（北京时间） 
+! Total count: 5607
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -1560,6 +1560,7 @@
 ||configuration.ttpsdk.info^
 ||conforama-push.com^
 ||connect.ekomi.de^
+||connect.kjuwxmi.xyz^
 ||connect.nosto.com^
 ||connect.ok.ru^
 ||consent-wrapper.jameda.de^
@@ -1800,6 +1801,7 @@
 ||dg.miludata.com^
 ||dg.sawadeca.com^
 ||dg.xxgslt.com^
+||dg.yaomuzhubao.com^
 ||dg186.cn^
 ||dgb.hnbhrt.xyz^
 ||dgstatic.jd.com^
@@ -2265,6 +2267,7 @@
 ||gs.getui.com^
 ||gsmtop.net^
 ||gsnlc.cn^
+||gsp0.kj-gov.cn^
 ||gstat.myzaker.com^
 ||gts-ads.twistbox.com^
 ||guanjia.qq.com^
@@ -2586,6 +2589,7 @@
 ||j.gxlsjt.com^
 ||j.iklda.cn^
 ||j.jixiangniutanrou.net^
+||j.k31bpzf.xyz^
 ||j.sdqoi2d.com^
 ||j.sun66387567606.online^
 ||j.sun66387567606.site^

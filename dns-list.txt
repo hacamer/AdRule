@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-06-30 10:41 
-! Last Update: 2022-06-30 10:41:39（北京时间） 
-! Total count: 5601
+! Version: 2022-06-30 16:44 
+! Last Update: 2022-06-30 16:44:22（北京时间） 
+! Total count: 5603
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -5370,6 +5370,7 @@
 ||xc.nimaxrv.cn^
 ||xc.nuheoub.cn^
 ||xc.ognujxj.cn^
+||xc.qaxkwxpf.cn^
 ||xc.shigl.top^
 ||xc.wagzqhq.cn^
 ||xc.yynncbn.cn^
@@ -5393,6 +5394,7 @@
 ||xg.s4zqj3m.cn^
 ||xg.sciillr.cn^
 ||xg.svvbrkk.cn^
+||xg.unypud.cn^
 ||xg.wdswgjn.cn^
 ||xg.y0764.cn^
 ||xiangchaokankan.m.cn.miaozhen.com^

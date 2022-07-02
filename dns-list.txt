@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-07-02 16:39 
-! Last Update: 2022-07-02 16:39:16（北京时间） 
-! Total count: 5610
+! Version: 2022-07-03 00:48 
+! Last Update: 2022-07-03 00:48:08（北京时间） 
+! Total count: 5611
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -1196,6 +1196,7 @@
 ||bjfesdk.douyucdn.cn^
 ||bjmantis.net^
 ||bjuser.jpush.cn^
+||bjzh.pandasone.com^
 ||bkcommdata.v.qq.com^
 ||bksoup.v.qq.com^
 ||bl.emotionalworld.cn^

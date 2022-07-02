@@ -1143,6 +1143,7 @@
 ||cookiebot.com^
 ||cookiechoices.org^
 ||cookiefirst.com^
+||cookieform.pl^
 ||cookiehub.net^
 ||cookieinfoscript.com^
 ||cookielab.dk^

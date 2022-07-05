@@ -7,19 +7,6 @@
 ! Homepage: https://github.com/hacamer/AdRule
 ! Description: 杏梢的URL过滤器，清除常见的跟踪参数 
 !
-! 通用
-$removeparam=fr
-$removeparam=from
-$removeparam=vit
-$removeparam=share_source
-$removeparam=from_source
-$removeparam=spm_id_from
-$removeparam=utm_source
-$removeparam=utm_medium
-$removeparam=utm_campaign
-$removeparam=X-AD
-$removeparam=ad_pv_track
-$removeparam=is_video_answer_page
 
 ! 百度
 ||baidu.com^$removeparam=rsv_sug*
@@ -225,24 +212,3 @@ $removeparam=is_video_answer_page
 ||microsoftedgewelcome.microsoft.com^$removeparam=version
 ||microsoftedgewelcome.microsoft.com^$removeparam=form
 ||microsoftedgewelcome.microsoft.com^$removeparam=slide
-
-! 知乎
-||zhihu.com^$removeparam=X-AD
-||zhihu.com^$removeparam=X-SUGER
-||zhihu.com^$removeparam=ab_signature
-||zhihu.com^$removeparam=config
-||zhihu.com^$removeparam=entry
-||zhihu.com^$removeparam=follow_guide
-||zhihu.com^$removeparam=is_enable_double_click_voteup
-||zhihu.com^$removeparam=is_video_answer_page
-||zhihu.com^$removeparam=no_image
-||zhihu.com^$removeparam=omni
-||zhihu.com^$removeparam=q_idx
-||zhihu.com^$removeparam=slide_direction
-||zhihu.com^$removeparam=x-api-version
-
-! 网易云音乐
-||music.163.com^$removeparam=uct
-||music.163.com^$removeparam=app_version
-||music.163.com^$removeparam=sc
-||music.163.com^$removeparam=tn

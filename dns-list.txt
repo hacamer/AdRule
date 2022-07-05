@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-07-05 16:40 
-! Last Update: 2022-07-05 16:40:28（北京时间） 
-! Total count: 5617
+! Version: 2022-07-06 00:58 
+! Last Update: 2022-07-06 00:58:17（北京时间） 
+! Total count: 5620
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -5049,6 +5049,7 @@
 ||w.l.qq.com^
 ||w.uptolike.com^
 ||w.ymapp.com^
+||w01.fhfgg.com^
 ||wahwahnetworks.com^
 ||waiads.com^
 ||wan.lm995.com^
@@ -5057,6 +5058,7 @@
 ||wap-click.com^
 ||wap.bntxt.com^
 ||wap.embnvut.com^
+||wap.mbveryu.top^
 ||wap.mpush.qq.com^
 ||wap2.laogu.wang^
 ||wapstart.ru^
@@ -5140,6 +5142,7 @@
 ||wn68din.cn^
 ||wnpbdan.bid^
 ||wo1990.com^
+||wo8iq1z.dxzky.love^
 ||wof.arkn81.com^
 ||wof.betylife.com^
 ||wof.hnltcw.com^

@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-07-06 01:22 
-! Last Update: 2022-07-06 01:22:27（北京时间） 
-! Total count: 5620
+! Version: 2022-07-06 10:58 
+! Last Update: 2022-07-06 10:58:27（北京时间） 
+! Total count: 5621
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -1559,6 +1559,7 @@
 ||config.unityads.unity3d.com^
 ||config.unityads.unitychina.cn^
 ||configuration.ttpsdk.info^
+||confirmit.com^
 ||conforama-push.com^
 ||connect.ekomi.de^
 ||connect.kjuwxmi.xyz^

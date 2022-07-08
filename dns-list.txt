@@ -1,6 +1,6 @@
 ! Title: Quickly List 
-! Version: 2022-07-08 10:42 
-! Last Update: 2022-07-08 10:42:46（北京时间） 
+! Version: 2022-07-08 16:43 
+! Last Update: 2022-07-08 16:43:12（北京时间） 
 ! Total count: 5624
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
@@ -1678,6 +1678,7 @@
 ||ctivity.tuigorilla.com^
 ||ctl.buyt.in^
 ||ctlrnwbv.ru^
+||ctobsnssdk.com^
 ||ctr.hd.sohu.com^
 ||ctur.idubwz.cn^
 ||cul.rrgapzw.cn^
@@ -2886,7 +2887,6 @@
 ||lnk9c.amvecurt.cn^
 ||lnk9v.amvecurt.cn^
 ||lnm.guozhongwang.cn^
-||local.adguard.org^
 ||location.ximalaya.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||log-api.pangolin-sdk-toutiao-*.com^

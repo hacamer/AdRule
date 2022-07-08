@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-07-08 16:43 
-! Last Update: 2022-07-08 16:43:12（北京时间） 
-! Total count: 5624
+! Version: 2022-07-09 00:58 
+! Last Update: 2022-07-09 00:58:45（北京时间） 
+! Total count: 5625
 @@||a-msedge.net^
 @@||aod.itunes.apple.com^
 @@||aod.itunes.g.aaplimg.com^
@@ -4730,6 +4730,7 @@
 ||toblog.ctobsnssdk.com^
 ||toblog.snssdk.com^
 ||toblog.volceapplog.com^
+||toggle.qq.com^
 ||tonefuse.com^
 ||tongji.xinmin.cn^
 ||tongqing2015.com^

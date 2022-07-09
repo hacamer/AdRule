@@ -1,66 +1,27 @@
 ! Title: Quickly List 
-! Version: 2022-07-09 16:39 
-! Last Update: 2022-07-09 16:39:33（北京时间） 
-! Total count: 5627
-@@||a-msedge.net^
-@@||aod.itunes.apple.com^
-@@||aod.itunes.g.aaplimg.com^
+! Version: 2022-07-10 00:48 
+! Last Update: 2022-07-10 00:48:12（北京时间） 
+! Total count: 5589
 @@||api.yjllq.com^
-@@||app.market.xiaomi.com^
-@@||app.qq.com^
 @@||bkimg.cdn.bcebos.com^
-@@||cdn.ark.qq.com^
-@@||click.mz.simba.taobao.com^
-@@||dash.cloudflare.com^
 @@||dash.xns.one^
 @@||doc.weixin.qq.com^
-@@||drive.quark.cn^
-@@||feedback.miui.com^
-@@||gg.gg^
-@@||gift.douyucdn.cn^
 @@||gw.m.163.com^
-@@||idqqimg.com^
-@@||ilce.alicdn.com^
 @@||imgstat.baidu.com^
 @@||inews.gtimg.com^
 @@||local.adguard.org^
-@@||maccms.com^
-@@||map.qq.com^
 @@||mb.yidianzixun.com^
-@@||metric.ccc.cmbchina.com^
 @@||metrics1.data.hicloud.com^
 @@||midas.gtimg.cn^
 @@||myqqjd.com^
 @@||nebula.kuaishou.com^
-@@||news-events.apple.com^
-@@||nmobi.kuwo.cn^
-@@||odin.re.taobao.com^
-@@||p.qlogo.cn^
 @@||package.wallpaper.cdn.pandora.xiaomi.com.lan^
 @@||pan.quark.cn^
-@@||paste.in^
-@@||qpic.cn^
-@@||qq-web.cdn-go.cn^
 @@||quark.sm.cn^
 @@||qun.qq.com^
-@@||sax.sina.com.cn^
-@@||solitaireevents.microsoftcasualgames.com^
-@@||static.tieba.baidu.com^
-@@||static.yximgs.com^
-@@||stats.foldingathome.org^
 @@||sug.browser.miui.com^
-@@||thirdwx.qlogo.cn^
-@@||turn.chillyroom.com^
-@@||uland.taobao.com^
-@@||uri6.com^
-@@||v2.get.sogou.com^
 @@||w.pandora.xiaomi.com^
 @@||wallpaper.cdn.pandora.xiaomi.com^
-@@||wan.yxskill.com^
-@@||wl.jd.com^
-@@||woozooo.com^
-@@||www.paypalobjects.com^
-@@||wx.qlogo.cn^
 @@||wx.tenpay.com^
 @@||yyfweb.postar.cn^
 ||023hysj.com^
@@ -2775,6 +2736,7 @@
 ||kme.dncvj.cn^
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
+||kmr.enrosr.cn^
 ||kmt.cslpf.cn^
 ||kmt.xkzjq.cn^
 ||kmy.tlsgq.cn^

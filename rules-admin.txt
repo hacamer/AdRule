@@ -496,8 +496,7 @@ xda-developers.com###purch-parent-ad-container-id
 ||m-cloud.zhihu.com/api/personal^
 ||open.kwaizt.com^
 ||pic1.zhimg.com/check_health
-||vdn.vzuu.com^
-||vzuu.com^
+||vzuu.com^~$media
 ||www.zhihu.com/*/advisor_cards
 ||www.zhihu.com/api/v4/members^
 ||www.zhihu.com/api/v4/zvideo-collections/contents/included/collections?

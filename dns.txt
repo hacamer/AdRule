@@ -54,8 +54,6 @@
 ||toblog.ctobsnssdk.com^
 ||track.miui.com^
 ||ulogs.umengcloud.com^
-||vdn.vzuu.com^
-||vzuu.com^
 ||wenda.zuoyebang.com^
 ||wlog.kuaishou.com^
 ||ximg.meihu56.cn^

@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-07-16 00:56 
-! Last Update: 2022-07-16 00:56:40（北京时间） 
-! Total count: 5596
+! Version: 2022-07-16 10:34 
+! Last Update: 2022-07-16 10:34:06（北京时间） 
+! Total count: 5597
 @@||api.yjllq.com^
 @@||bkimg.cdn.bcebos.com^
 @@||dash.xns.one^
@@ -1680,7 +1680,6 @@
 ||d2eucw4fxv7nil.cloudfront.net^
 ||d2ip7iv1l4ergv.cloudfront.net^
 ||d2nrdy2pg3k168.cloudfront.net^
-||d2r1yp2w7bby2u.cloudfront.net^
 ||d2yyd1h5u9mauk.cloudfront.net^
 ||d32z5ni8t5127x.cloudfront.net^
 ||d3g.qq.com^
@@ -2745,6 +2744,7 @@
 ||kmt.xkzjq.cn^
 ||kmy.tlsgq.cn^
 ||kn.zhangdujia.com^
+||knb.cmgjqqu.cn^
 ||knicks.jd.com^
 ||knowd.com^
 ||knt.viplp.top^
@@ -3701,6 +3701,7 @@
 ||polyad.net^
 ||polymorphicads.jp^
 ||pon.ewtuyytdf45.com^
+||poneer.hnlczgjx.com^
 ||pontiflex.com^
 ||pool.minexmr.com^
 ||pool.supportxmr.com^

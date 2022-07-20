@@ -636,6 +636,7 @@
 ||api-gi.getui.com^
 ||api-luckycoinsdk.doglobal.net^
 ||api-mcp.adsp.xunlei.com^
+||api-push.com^
 ||api.ad-locus.com^
 ||api.ad.xiaomi.com^
 ||api.ad.yipinread.com^

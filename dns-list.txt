@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-07-21 10:45 
-! Last Update: 2022-07-21 10:45:03（北京时间） 
-! Total count: 5609
+! Version: 2022-07-21 16:41 
+! Last Update: 2022-07-21 16:41:31（北京时间） 
+! Total count: 5611
 @@||api.yjllq.com^
 @@||bkimg.cdn.bcebos.com^
 @@||dash.xns.one^
@@ -4696,6 +4696,7 @@
 ||tmead.y.qq.com^
 ||tmeadcomm.y.qq.com^
 ||tmz.vo.llnwd.net^
+||tnc*.zijieapi.com^
 ||tnc3-aliec2.snssdk.com^
 ||tnc3-alisc1.snssdk.com^
 ||tnc3-bjlgy.snssdk.^
@@ -4846,6 +4847,7 @@
 ||uc.qq.uuaoz.com^
 ||ucstat.baidu.com^
 ||udash.umengcloud.com^
+||udiab1.jianshu.com^
 ||ufojr.golden1.sogou.com^
 ||ufz.doesxyz.com^
 ||ug.snssdk.com^

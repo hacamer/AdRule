@@ -605,6 +605,7 @@
 ||ama.adwo.com^
 ||amap-aos-info-nogw.amap.com^
 ||amazon-adsystem.com^
+||amazonclix.com^
 ||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
 ||amillionads.com^

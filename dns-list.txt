@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-07-22 00:51 
-! Last Update: 2022-07-22 00:51:52（北京时间） 
-! Total count: 5612
+! Version: 2022-07-22 10:44 
+! Last Update: 2022-07-22 10:44:57（北京时间） 
+! Total count: 5614
 @@||api.yjllq.com^
 @@||bkimg.cdn.bcebos.com^
 @@||dash.xns.one^
@@ -796,6 +796,7 @@
 ||ama.adwo.com^
 ||amap-aos-info-nogw.amap.com^
 ||amazon-adsystem.com^
+||amazonclix.com^
 ||amdc.m.taobao.com^
 ||amdcopen.m.taobao.com^
 ||amfi.gou.sogou.com^
@@ -1641,6 +1642,7 @@
 ||cs02-pps-drcn.dbankcdn.com^
 ||csi.gstatic.com^
 ||cslpf.cn^
+||csygxdym.com^
 ||ctivity.tuigorilla.com^
 ||ctl.buyt.in^
 ||ctlrnwbv.ru^

@@ -1143,6 +1143,8 @@
 ||cookie.support^
 ||cookie.vrt.be^
 ||cookie.wieni.be^
+||cookieapi.incomit.dk^
+||cookieapi2.incomit.dk^
 ||cookieassistant.com^
 ||cookiebot.com^
 ||cookiechoices.org^

@@ -12,7 +12,7 @@
 ||analytics.map.qq.com^
 ||iwx.mail.qq.com/info/report
 ||oss.mail.qq.com/cgi-bin/oss_log
-
+!
 ! 通配符拦截
 */log/client/*
 */log/ad/*

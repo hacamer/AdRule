@@ -1404,7 +1404,6 @@
 ||feedaty.com^
 ||feedblitz.com^
 ||feedify.net^
-||feefo.com^
 ||fem-inc.com^
 ||feraciumus.com^
 ||fernomius.com^

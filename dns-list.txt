@@ -1,7 +1,7 @@
 ! Title: Quickly List 
-! Version: 2022-07-26 00:53 
-! Last Update: 2022-07-26 00:53:52（北京时间） 
-! Total count: 5631
+! Version: 2022-07-26 11:03 
+! Last Update: 2022-07-26 11:03:44（北京时间） 
+! Total count: 5629
 @@||api.yjllq.com^
 @@||bkimg.cdn.bcebos.com^
 @@||dash.xns.one^
@@ -73,7 +73,6 @@
 ||33221.qqq123987.site^
 ||33789.qqqwww987.site^
 ||360yield.com^
-||37b57c.91xzba.com^
 ||37signals.com^
 ||397c0.admaster.com.cn^
 ||3d.sybnzs.cn^
@@ -131,10 +130,10 @@
 ||8g0j.cn^
 ||9151511tuesday.hqnpwzu.cn^
 ||91p20.space^
+||91xzba.com^
 ||9282821monday.hqnpwzu.cn^
 ||95.213.231.34^
 ||95520saturday.hqnpwzu.cn^
-||961020.91xzba.com^
 ||997.000123456789.site^
 ||99999999.club^
 ||99e333.nbrlzy.com^
@@ -1280,7 +1279,6 @@
 ||c2i.startappnetwork.com^
 ||c2s.startappnetwork.com^
 ||c3.myapkcdn.in^
-||c55735.91xzba.com^
 ||c753738.r38.cf2.rackcdn.com^
 ||c8.net.ua^
 ||cache-ssl.celtra.com^
@@ -1888,7 +1886,6 @@
 ||dxs.00xvppy.cn^
 ||dycwt.cn^
 ||dykeep.com^
-||dz.kengi.top^
 ||dzc-metrics.mzstatic.com^
 ||dzpu6za66svjl.cloudfront.net^
 ||e-ad-monitor.huya.com^
@@ -2230,7 +2227,6 @@
 ||gotchosen.com^
 ||goutong.baidu.com^
 ||gouwu.qq.com^
-||gov.oiuqwppcsdf.com^
 ||govdelivery.com^
 ||goyetteconnelly.bid^
 ||gozendata.com^
@@ -2733,6 +2729,7 @@
 ||kdmkauchahynhrs.ru^
 ||kelvy.iomsew.com^
 ||ken.kenxq.com^
+||kengi.top^
 ||kepler.jd.com^
 ||ketchapp.org^
 ||keybut.com^
@@ -3448,6 +3445,7 @@
 ||ohjfk7jf28.gsjzlssws.com^
 ||oil.axelspringer.com^
 ||oimsgad.qq.com^
+||oiuqwppcsdf.com^
 ||ojkskdjf.waizongguan.net^
 ||ojlsdkfj.51-tour.net^
 ||ojlskjf.niangaoxiansheng.com^
